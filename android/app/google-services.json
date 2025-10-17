@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745549848970",
+    "project_id": "todo-app-with-cubit",
+    "storage_bucket": "todo-app-with-cubit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745549848970:android:41e395079436dc4dad2873",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHYazKFAxIYutQzSOyEnqXuL6YtbCBiAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
