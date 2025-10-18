@@ -20,7 +20,6 @@ Tujuan utama dari proyek ini:
 | **Framework** | Flutter |
 | **Language** | Dart |
 | **Backend** | Firebase Cloud Firestore |
-| **Authentication** | Firebase Auth (optional) |
 | **State Management** | Cubit (Bloc) |
 | **Architecture** | Clean Architecture |
 | **AI Assistant** | ChatGPT / IBM Granite |
